@@ -5,9 +5,8 @@
 
 ### 👩‍🎓 About Me
 
-- 🎓 B.E. in Information Technology @ Trinity College of Engineering and Research (GPA: 8.0)
-- 🧑‍🔧 Diploma in Engineering from Government Polytechnic, Khamgaon (82.06%)
-- 🌱 Actively learning and building projects in Web Development, ReactJS, and Python AI/ML
+- 🎓 B.E. in Information Technology @ Trinity College of Engineering and Research
+- 🚀 An Engineering student learning DevOps • Passionate about CI/CD, Docker, Cloud & Automation 
 - ✨ Always eager to explore real-world problems and convert them into digital solutions
 
 ---
