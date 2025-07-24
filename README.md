@@ -64,8 +64,3 @@ A secure and user-friendly voting web application using `PHP`, `MySQL`, `HTML`, 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/janhaviikale)
 - 💌 janhavikale896@gmail.com  
 - 💻 [GitHub](https://github.com/janhaviikale)
-
----
-
-### ⚡ Fun Fact
-> I believe real learning begins when we step outside our comfort zone and start building solutions that impact the world.
